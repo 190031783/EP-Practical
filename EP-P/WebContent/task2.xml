@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+	<student>
+		<regno>190031783</regno>
+		<name>Harshitha</name>
+		<avg>92</avg>
+		<dob>29-01-2002</dob>
+		<time>3:21</time>
+		<mobile no="9391868286" />
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190031171</regno>
+		<name>Veda</name>
+		<avg>90</avg>
+		<dob>22-02-2002</dob>
+		<time>10:00</time>
+		<mobileno>"9345972612"</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190031323</regno>
+		<name>Sindhu</name>
+		<avg>98</avg>
+		<dob>11-04-2002</dob>
+		<time>12:36</time>
+		<mobile no="9347590085" />
+		<distinction>YES</distinction>
+	</student>
+</students_info>

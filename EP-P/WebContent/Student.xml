@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+	<students>
+		<regno>190031783</regno>
+		<name>Harshitha</name>
+		<cgp>9</cgp>
+		<branch>CSE</branch>
+	</students>
+	<students>
+		<regno>190031323</regno>
+		<name>Sindhu</name>
+		<cgp>9</cgp>
+		<branch>CSE</branch>
+	</students>
+	<students>
+		<regno>190031171</regno>
+		<name>Veda</name>
+		<cgp>8</cgp>
+		<branch>CSE</branch>
+	</students>
+	<students>
+		<regno>190031499</regno>
+		<name>Jaha</name>
+		<cgp>10</cgp>
+		<branch>CSE</branch>
+	</students>
+	<students>
+		<regno>190031368</regno>
+		<name>Anitha</name>
+		<cgp>8</cgp>
+		<branch>CSE</branch>
+	</students>
+</Students>
